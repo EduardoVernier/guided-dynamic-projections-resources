@@ -4,3 +4,7 @@ title = "Guided Dynamic Projections"
 [params]
   BookSearch = false
   canonifyURLs = true
+  [markup]
+    [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe = true

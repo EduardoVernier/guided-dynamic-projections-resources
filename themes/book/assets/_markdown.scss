@@ -66,11 +66,11 @@
     display: block;
     border-spacing: 0;
     border-collapse: collapse;
-    margin-top: $padding-16;
-    margin-bottom: $padding-16;
+    margin-top: 0;
+    margin-bottom: 0;
   
     tr th, tr td {
-      padding: $padding-8 $padding-16;
+      padding: 0;
       border: $padding-1 solid $gray-200;
     }
 
