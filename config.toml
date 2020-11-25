@@ -1,0 +1,6 @@
+baseURL = "https://eduardovernier.github.io/guided-dynamic-projections-resources/"
+languageCode = "en-us"
+title = "Guided Dynamic Projections"
+[params]
+  BookSearch = false
+  canonifyURLs = true
