@@ -3,7 +3,6 @@ title: Trails
 ---
 # Trails
 
-Rearrange methods order on markdown file.
 
 {{< expand "1. cartolastd - 696 observations - 19 timesteps - 17 dimensions - 5 classes" "..." >}}
 The dataset was scrapped from the Brazilian fantasy soccer platform Cartola and represents the second turn of the 2017 championship. The scrapper source can be found at https://github.com/henriquepgomide/caRtola. To make the dataset smoother, the dimensions were cumulatively averaged.
